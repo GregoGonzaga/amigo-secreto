@@ -24,6 +24,6 @@ Bom jogo!
 - ``HTML``
 - ``CSS``
 
-#Autor
+#Autor:
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/180897655?v=4" width=115><br><sub>Gregorio Gonzaga</sub>](https://github.com/GregoGonzaga)
