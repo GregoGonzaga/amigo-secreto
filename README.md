@@ -13,6 +13,8 @@ Projeto desenvolvido para a formação em programação  Iniciante em Programaç
 O Projeto consiste na construção de uma lista de nomes para a escolha de um Amigo Secreto.
 Todo o projeto foi construido através de JS, com uma base já determinada em HTML e CSS.
 
+https://amigo-secreto-3yy81t1v8-gregogonzagas-projects.vercel.app/
+
 
 Bom jogo!
 
