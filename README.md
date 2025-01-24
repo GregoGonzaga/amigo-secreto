@@ -15,6 +15,11 @@ Todo o projeto foi construido através de JS, com uma base já determinada em HT
 
 https://amigo-secreto-3yy81t1v8-gregogonzagas-projects.vercel.app/
 
+# Funcionalidades
+
+- Adicionar nomes dos participantes.
+
+- Realizar o sorteio automaticamente.
 
 Bom jogo!
 
@@ -26,6 +31,14 @@ Bom jogo!
 - ``HTML``
 - ``CSS``
 
-#Autor:
+# Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
+
+# Direitos Autorais
+
+<p>&copy; 2025 Gregorio Gonzaga</p>
+
+# Autor
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/180897655?v=4" width=115><br><sub>Gregorio Gonzaga</sub>](https://github.com/GregoGonzaga)
